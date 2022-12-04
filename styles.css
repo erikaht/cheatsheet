@@ -1,0 +1,51 @@
+body {
+  background-color: purple;
+}
+
+h1 {
+  font-family: Arial;
+  background-color: plum;
+  align-content: center;
+  text-align: center;
+  border: solid white 3px; 
+}
+
+h2 {
+  font-family: Helvetica;
+  background-color: plum;
+  align-content: center;
+  text-align: center;
+  border: solid white 3px; 
+}
+
+table {
+  font-family: Helvetica;
+  color: white;
+  border: solid white 3px;
+}
+
+th {
+  text-decoration: underline;
+  border: solid white 3px;
+}
+
+td {
+  text-align: center;
+  border: solid white 3px;
+  padding: 20px;
+}
+
+.code {
+  font-family: monospace;
+  background-color: plum;
+  color: black;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: small;
+  color: white;
+  text-align: center;
+  background-color: DarkMagenta;
+  border: solid white 1px;
+}
